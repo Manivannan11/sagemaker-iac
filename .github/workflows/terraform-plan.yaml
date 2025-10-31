@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   terraform:
-    name: Terraform Init, Plan and Apply
+    name: Terraform Plan
     runs-on: ubuntu-latest
 
     steps:
